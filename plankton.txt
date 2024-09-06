@@ -1,0 +1,197 @@
+penup
+goto, -280, 140, 480, #AFEEEE
+pendown
+goto, 280, 140, 480, #AFEEEE
+penup
+goto, -280, -295, 480, Brown
+pendown
+goto, 280, -295, 480, Brown
+penup
+goto, 51, 90, 14, black
+pendown
+goto, 52, 105, 14, black
+goto, 55, 120, 14, black
+goto, 59, 135, 12, black
+goto, 67, 150, 12, black
+goto, 77, 165, 12, black
+goto, 87, 180, 10, black
+goto, 97, 190, 10, black 
+goto, 107, 200, 10, black
+goto, 117, 208, 8, black
+goto, 127, 214, 8, black
+goto, 137, 220, 8, black
+penup
+goto, 51, 90, 12, #2E8B57
+pendown
+goto, 52, 105, 12, #2E8B57
+goto, 55, 120, 12, #2E8B57
+goto, 59, 135, 10, #2E8B57
+goto, 67, 150, 10, #2E8B57
+goto, 77, 165, 10, #2E8B57
+goto, 87, 180, 8, #2E8B57
+goto, 97, 190, 8, #2E8B57
+goto, 107, 200, 8, #2E8B57
+goto, 117, 208, 6, #2E8B57
+goto, 127, 214, 6, #2E8B57
+goto, 137, 220, 6, #2E8B57
+penup
+goto, 80, -20, 22, black
+beginfill, black
+pendown
+goto, 135, -40, 22, black
+goto, 80, -85, 22, black
+goto, 100, -100, 22, black
+penup
+goto, 50, -130, 22, black
+pendown
+goto, 50, -210, 22, black
+penup
+goto, 80, -20, 20, #8FBC8F
+beginfill, #3CB371
+pendown
+goto, 135, -40, 20, #8FBC8F
+goto, 80, -85, 20, #8FBC8F
+goto, 100, -100, 20, #8FBC8F
+penup
+goto, 50, -130, 20, #8FBC8F
+pendown
+goto, 50, -210, 20, #8FBC8F
+penup
+goto, 25, 40, 132, black
+beginfill, black
+pendown
+goto, 20, -130, 132, black
+endfill
+penup
+goto, 25, 40, 130, #8FBC8F
+beginfill, #3CB371
+pendown
+goto, 20, -130, 130, #8FBC8F
+endfill
+penup
+goto, -30, -20, 22, black
+beginfill, black
+pendown
+goto, -85, -40, 22, black
+goto, -20, -85, 23, black
+goto, -45, -100, 22, black
+penup
+goto, -28, -20, 20, #8FBC8F
+beginfill, #3CB371
+pendown
+goto, -85, -40, 20, #8FBC8F
+goto, -20, -85, 21, #8FBC8F
+goto, -45, -100, 20, #8FBC8F
+penup
+goto, -18 ,-170, 22, black
+pendown
+goto, -15, -210, 22, black
+penup
+goto, -18 ,-168, 20, #8FBC8F
+pendown
+goto, -15, -210, 20, #8FBC8F
+penup
+goto, 1, 92, 14, black
+pendown
+goto, 0, 105, 14, black
+goto, -3, 120, 14, black
+goto, -7, 135, 12, black
+goto, -15, 150, 12, black 
+goto, -25, 165, 12, black 
+goto, -35, 180, 10, black 
+goto, -45, 190, 10, black
+goto, -55, 200, 10, black
+goto, -65, 208, 8, black 
+goto, -75, 214, 8, black 
+goto, -85, 220, 8, black
+penup
+goto, 1, 90, 12, black
+pendown
+goto, 0, 105, 12, #2E8B57
+goto, -3, 120, 12, #2E8B57
+goto, -7, 135, 10, #2E8B57
+goto, -15, 150, 10, #2E8B57
+goto, -25, 165, 10, #2E8B57
+goto, -35, 180, 8, #2E8B57
+goto, -45, 190, 8, #2E8B57
+goto, -55, 200, 8, #2E8B57
+goto, -65, 208, 6, #2E8B57
+goto, -75, 214, 6, #2E8B57
+goto, -85, 220, 6, #2E8B57
+penup
+goto, 8, 42, 45, #FAFAD2
+pendown
+goto, 9, 30, 45, #FAFAD2
+penup
+goto, 65, 42, 45, #FAFAD2
+pendown
+goto, 65, 30, 45, #FAFAD2
+penup
+goto, 10, 43, 14, #B8860B
+pendown
+goto, 11, 38, 14, #B8860B
+penup
+goto, 69, 43, 14, #B8860B
+pendown
+goto, 69, 38, 14, #B8860B
+penup
+goto, 14, 44, 4, white
+pendown
+goto, 15, 42, 4, white
+penup
+goto, 72, 44, 4, white
+pendown
+goto, 72, 42, 4, white
+penup
+goto, -10, 71, 17, black
+pendown
+goto, 5, 77, 16, black
+goto, 20, 75, 16, black
+penup
+goto, 82, 72, 16, black
+pendown
+goto, 67, 77, 16, black
+goto, 52, 75, 16, black
+penup
+goto, 20, -11, 1.5, black
+pendown
+goto, 27, -10, 1.5, black
+goto, 46, -9, 1.5, black
+goto, 56, -12, 1.5, black
+penup
+goto, 57, -9, 1.5, black
+pendown
+goto, 56, -12, 1.5, black
+goto, 58, -15, 1.5, black
+penup
+goto, 72, 175, 1, black
+pendown
+goto, 94, 169, 1, black
+penup
+goto, 82, 188, 1, black
+pendown
+goto, 104, 182, 1, black
+penup
+goto, 92, 201, 1, black
+pendown
+goto, 114, 195, 1, black
+penup
+goto, 108, 214, 1, black
+pendown
+goto, 130, 206, 1, black
+penup
+goto, -20, 175, 1, black
+pendown
+goto, -42, 169, 1, black 
+penup
+goto, -30, 188, 1, black
+pendown
+goto, -52, 182, 1, black
+penup
+goto, -40, 201, 1, black
+pendown
+goto, -62, 195, 1, black
+penup
+goto, -55, 211, 1, black
+pendown
+goto, -77, 203, 1, red
