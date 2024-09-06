@@ -1,0 +1,69 @@
+penup
+goto, -120, -30, 1, black
+pendown
+beginfill, brown
+goto, -170, 80, 1, black
+goto, 120, 80, 1, black
+goto, 70, -30, 1, black
+goto, -120, -30, 1, black
+endfill
+penup
+goto, 0, 80, 1, black
+pendown
+beginfill, orange
+goto, 0, 180, 10, orange
+goto, 60, 180, 1, orange
+goto, 0, 150, 1, orange
+endfill
+penup
+goto, -500, -20, 0, blue
+pendown
+goto, -400, -60, 50, light blue
+goto, -300, -20, 50, light blue
+goto, -200, -60, 50, light blue
+goto, -100, -20, 50, light blue
+goto, 0, -60, 50, light blue
+goto, 100, -20, 50, light blue
+goto, 200, -60, 50, light blue
+goto, 300, -20, 50, light blue
+goto, 400, -60, 50, light blue
+goto, 500, -20, 50, light blue
+penup
+goto, -500, -40, 0, blue
+pendown
+goto, -400, -80, 50, blue
+goto, -300, -40, 50, blue
+goto, -200, -80, 50, blue
+goto, -100, -40, 50, blue
+goto, 0, -80, 50, blue
+goto, 100, -40, 50, blue
+goto, 200, -80, 50, blue
+goto, 300, -40, 50, blue
+goto, 400, -80, 50, blue
+goto, 500, -40, 50, blue
+penup
+goto, -500, -60, 0, blue
+pendown
+goto, -400, -100, 50, light blue
+goto, -300, -60, 50, light blue
+goto, -200, -100, 50, light blue
+goto, -100, -60, 50, light blue
+goto, 0, -100, 50, light blue
+goto, 100, -60, 50, light blue
+goto, 200, -100, 50, light blue
+goto, 300, -60, 50, light blue
+goto, 400, -100, 50, light blue
+goto, 500, -60, 50, light blue
+penup
+goto, -500, -80, 0, blue
+pendown
+goto, -400, -120, 50, blue
+goto, -300, -80, 50, blue
+goto, -200, -120, 50, blue
+goto, -100, -80, 50, blue
+goto, 0, -120, 50, blue
+goto, 100, -80, 50, blue
+goto, 200, -120, 50, blue
+goto, 300, -80, 50, blue
+goto, 400, -120, 50, blue
+goto, 500, -80, 50, blue
